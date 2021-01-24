@@ -1,0 +1,26 @@
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.pdb
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.Form1.resources
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.Properties.Resources.resources
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.pdb
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.exe
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.pdb
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.exe
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.pdb
+Y:\C# 2010\modelos\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.frmbugsTracks.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.frmbugsTracks.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV_36_BUGSTRACKS.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\bin\Debug\ADV-36_BUGSTRACKS.exe.config
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Debug\ADV-36_BUGSTRACKS.csproj.GenerateResource.Cache

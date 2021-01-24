@@ -1,0 +1,3 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Release\ADV_36_BUGSTRACKS.frmbugsTracks.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Release\ADV_36_BUGSTRACKS.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-36_BUGSTRACKS\ADV-36_BUGSTRACKS\obj\x86\Release\ADV-36_BUGSTRACKS.csproj.GenerateResource.Cache
